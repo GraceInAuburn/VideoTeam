@@ -19,12 +19,14 @@
             1.  Create a Folder with the service time
             2.  Paste the CANON XF Folder into it
             3.  Repeat this step for each service
+![](img/Premiereopen.gif)
     3.  Open Premiere Pro to edit the video.
     4.  Select New Project
     5.  Give the Project the same name as the folder it is saved in.
     6.  Hit OK
     7.  Navigate to the Media Browser and Navigate to the place where you imported that weeks media, Right click on the media and select Import, this will copy it to your project.
     8.  In the Project view drag the video file to the new sequence button and it will create a sequence that has all the right settings based off of the video file.
+![](img/ImportMedia.gif)
     9.  Edit the video as you normally would
     10.  Things to Consider:
         1.  Audio 1 or left Chanel is the good clean XLR Audio. If you put the effect “Fill Left” on a stereo track it will make it all left and the same with the “Fill Right” effect.
