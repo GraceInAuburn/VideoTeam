@@ -13,6 +13,7 @@
         4.  Audio Output: 2 Channels
         5.  16-Bit for the Bitrate
         6.  Hit Export it will take 10-15 minutes if the card is full.
+![](img/canonutil.gif)
     1.  Open up This PC (Windows Explorer)
         1.  Right click on the CANON XF Folder and copy it
         2.  Open the project folder you created in step 1
