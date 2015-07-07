@@ -1,4 +1,4 @@
-1.  Open This PC and open the V: drive and create a folder with that Sundays Date (YYYY-MM-DD)+pastor+sermon title for example: 2015-01-01-Pastor-Sermon-Happy-New-Year
+1.  Open This PC and open the V: drive and create a folder with that Sundays Date `YYYY-MM-DD+pastor+sermon` title for example: `2015-01-01-Pastor-Sermon-Happy-New-Year`
     1.  Eric will try to create these for you in advance.
 2.  Capture the video on camera to the two memory cards, Card A for 9:00 and Card B for 10:45
 3.  There are two ways to copy the footage over:
@@ -30,7 +30,7 @@
 ![](img/ImportMedia.gif)
     9.  Edit the video as you normally would
     10.  Things to Consider:
-        1.  Audio 1 or left Chanel is the good clean XLR Audio. If you put the effect “Fill Left” on a stereo track it will make it all left and the same with the “Fill Right” effect.
+        1.  Audio 1 or left Chanel is the good clean XLR Audio. If you put the effect "Fill Left" on a stereo track it will make it all left and the same with the "Fill Right" effect.
         2.  Right Click on the audio Track and select audio gain to increase the volume in a way that will show on the waveforms.
         3.  If you are used to Final Cut you can change the keyboard shortcuts to those shortcuts in the edit menu.
     11.  When you are done editing make sure that there are no gaps at the front or the end of your track and with the sequence selected File-Export-Export Media (ctrl+m)
@@ -39,8 +39,8 @@
         1.   Select YouTube HD 1080p and put it in the V: Drive Renders Folder.
         1.  Also Add a MP3 export so You can put it on the website
     1.  When the file is done exporting use Google Chrome to upload it to YouTube (https://www.youtube.com/upload)
-        1.  Username = graceinauburn
-        2.  Password = ASK FOR IT ;)
+        1.  Username = `graceinauburn`
+        2.  Password = `ASK FOR IT ;)`
         3.  Name the Video SERIES TITLE – SERMON NAME For example: Living Proof – How to live a life
 2.  Open that week’s PowerPoint and export the Sermon Name slide as a PNG and upload that to YouTube as a custom Thumbnail.
     1.  Hit Publish and you are pretty much done.
