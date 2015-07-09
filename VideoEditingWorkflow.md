@@ -46,5 +46,5 @@
         1.  Username = `graceinauburn`
         2.  Password = `ASK FOR IT ;)`
         3.  Name the Video SERIES TITLE – SERMON NAME For example: `Living Proof – How to live a life`
-2.  Open that week’s PowerPoint and export the Sermon Name slide as a PNG and upload that to YouTube as a custom Thumbnail.
+2.  Open that week’s PowerPoint and export the Sermon Name slide as a 2MB or less PNG or JPG and upload that to YouTube as a custom Thumbnail.
     1.  Hit Publish and you are pretty much done.
