@@ -2,7 +2,7 @@
     1.  Eric will try to create these for you in advance.
 2.  Capture the video on camera to the two memory cards, Card A for 9:00 and Card B for 10:45
 3.  There are two ways to copy the footage over:
-    1.  Insert the Card into the Memory Card reader on the GCC1219 Video Editing Computer
+    1.  Insert the Card into the Memory Card reader (by the monitors) on the GCC1219 Video Editing Computer
         1.  Open the Canon XF Utility or download and install it, for the Canon xf305 camera.
         2.  Highlight all the clips in the top window by dragging over them with the mouse or shift clicking.
         3.  With the clips you want exported click the Edit Menu > Export to MXF&hellip;
@@ -10,7 +10,7 @@
         2.  Folder for Exported Files = The current weeks video folder on the Video Drive
             1.  Automatic Creation of Subfolders = Checked
         3.  To keep it simple do not rename the files
-        4.  Audio Output: 2 Channels
+        4.  Audio Output: `Origional Number of Tracks`
         5.  16-Bit for the Bitrate
         6.  Hit Export it will take 10-15 minutes if the card is full.
 ![](img/canonutil.gif)
@@ -21,7 +21,7 @@
             2.  Paste the CANON XF Folder into it
             3.  Repeat this step for each service
 ![](img/Premiereopen.gif)
-    3.  Open Premiere Pro to edit the video.
+3.  Open Premiere Pro to edit the video.
     4.  Select New Project
     5.  Give the Project the same name as the folder it is saved in.
     6.  Hit OK
