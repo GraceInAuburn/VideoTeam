@@ -37,7 +37,7 @@
             2.  If you put the effect "Fill Left" on a stereo track it will make it all left and the same with the "Fill Right" effect.
         2.  Right Click on the audio Track and select audio gain to increase the volume in a way that will show on the waveforms.
         3.  (Optional) If you are used to Final Cut you can change the keyboard shortcuts to those shortcuts in the edit menu.
-    11.  When you are done editing make sure that there are no gaps at the front or the end of your track and with the sequence selected File-Export-Export Media (ctrl+m)
+11.  When you are done editing make sure that there are no gaps at the front or the end of your track and with the sequence selected File-Export-Export Media (ctrl+m)
         1.  Select H.264 in format
         2.  Scroll all the way to the bottom in preset
         1.   Select YouTube HD 1080p and put it in the V: Drive Renders Folder.
